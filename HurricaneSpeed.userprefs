@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ExampleCar\Scripts\NormalModel\CarAwake.cs">
+    <Files>
+      <File FileName="Assets\ExampleCar\Scripts\Start\RankShow.cs" Line="1" Column="1" />
+      <File FileName="H:\PumpkinPaoku2\Assets\Scripts\LoginPage\LoadJson.cs" Line="1" Column="1" />
+      <File FileName="Assets\ExampleCar\Scripts\NormalModel\CarUserInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\ExampleCar\Scripts\NormalModel\CarController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ExampleCar\Scripts\NormalModel\CarAwake.cs" Line="35" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
